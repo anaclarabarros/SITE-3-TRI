@@ -42,7 +42,7 @@ border-radius: 100px;
 .escola{
     margin: 20px;
     padding: 20px;
-    background-color:#FEC229;
+    background-color:#e43762;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,7 +66,7 @@ border-radius: 100px;
     display: grid;
     grid-template-columns:1fr 1fr 1fr ;
     grid-template-rows: auto auto auto auto;
-    background-color: #7a7a7a;
+    background-color: #e62a2a;
     border-radius: 40px;
     margin: 20px;
     justify-items: center;
